@@ -11,3 +11,6 @@
 
 <h2>CSS</h2>
 <p>Estilização da página</p>
+
+
+<img src="https://raw.githubusercontent.com/JonatasFelix/flexblog/main/img/FlexBlog.jpg" alt="FlexBlog"/>
